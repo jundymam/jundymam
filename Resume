@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Your Name - Resume</title>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section id="contact">
+        <h2>Contact Information</h2>
+        <p>Email: your.email@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>LinkedIn: linkedin.com/in/yourname</p>
+        <p>GitHub: github.com/yourusername</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>Degree:</strong> Bachelor of Science in Computer Science</p>
+        <p><strong>University:</strong> Your University</p>
+        <p><strong>Graduation Year:</strong> 20XX</p>
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <h3>Web Developer at XYZ Company</h3>
+        <p><strong>Date:</strong> Month Year - Present</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+        <!-- Add more work experience if needed -->
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5, CSS3, JavaScript</li>
+            <li>React, Angular</li>
+            <li>Node.js, Express.js</li>
+            <li>Git, GitHub</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
